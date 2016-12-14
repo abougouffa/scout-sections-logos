@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="mota9adem.svg">
+   sodipodi:docname="mota9adem.svg"
+   inkscape:export-filename="/home/hacko/Scouting/MyScoutsActivities/logo/scout-sections-logos/mota9adem.svg.png"
+   inkscape:export-xdpi="300.01001"
+   inkscape:export-ydpi="300.01001">
   <defs
      id="defs4">
     <mask
@@ -95,7 +98,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.29330953"
-     inkscape:cx="-48.384521"
+     inkscape:cx="-723.4393"
      inkscape:cy="365.99856"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -125,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
